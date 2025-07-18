@@ -1,4 +1,4 @@
 # demo-1
 This is my first git repository
 <br>
-Author-chirasmita mohapatra
+Author-chirasmita (Apna college)
